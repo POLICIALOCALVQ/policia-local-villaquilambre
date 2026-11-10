@@ -1,0 +1,11 @@
+POLICÍA LOCAL VILLAQUILAMBRE — PWA M1
+
+1. Subir TODOS los archivos de esta carpeta a un alojamiento HTTPS, conservando sus nombres y la misma carpeta.
+2. Abrir la URL HTTPS de index.html desde Android o iPhone.
+3. Android: menú del navegador > Instalar aplicación / Añadir a pantalla de inicio.
+4. iPhone (Safari): Compartir > Añadir a pantalla de inicio.
+5. Abrir una vez con Internet para guardar la aplicación; después probar el modo avión.
+
+El archivo index.html también puede abrirse localmente para previsualizar la interfaz, pero el modo instalable y la caché offline necesitan HTTPS (o localhost).
+
+Basada en la V109. Prototipo inicial: comprobar en dispositivos reales antes de uso operativo.
