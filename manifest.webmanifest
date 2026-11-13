@@ -1,7 +1,7 @@
 {
   "name": "Policía Local Villaquilambre · Herramienta operativa",
   "short_name": "PL Villaquilambre",
-  "description": "Codificados policiales, normativa y cuestionarios VMP y permisos extranjeros",
+  "description": "Herramienta operativa de consulta policial",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
