@@ -1,4 +1,4 @@
-const APP_VERSION='M5.14';
+const APP_VERSION='M5.15';
 const PREFIX='pl-villaquilambre:'+self.registration.scope+':';
 const CACHE=PREFIX+APP_VERSION;
 const ASSETS=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
